@@ -1,6 +1,6 @@
 # Buy or Wait
 
-Financial decision agent built for [HackerRank Orchestrate](https://www.hackerrank.com/) (September 2026).
+Financial decision agent built for [HackerRank Orchestrate](https://www.hackerrank.com/hackerrank-orchestrate-september26) (September 2026).
 
 The prompt is *“Can I afford this?”* Balance alone is not enough. The agent looks at recurring bills, pending payments, min-balance preference, FX, installment offers, and evidence in messages and receipts — then recommends pay in full, split, installments, wait, or don’t.
 
