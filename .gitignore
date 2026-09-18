@@ -1,0 +1,12 @@
+log.txt
+__pycache__/
+*.pyc
+.env
+.venv/
+code/agent/__pycache__/
+code/evaluation/__pycache__/
+code/agent/.cache/
+dataset/
+*.zip
+code.zip
+.DS_Store
