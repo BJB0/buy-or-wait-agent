@@ -4,6 +4,18 @@ Financial decision agent built for [HackerRank Orchestrate](https://www.hackerra
 
 The prompt is *“Can I afford this?”* Balance alone is not enough. The agent looks at recurring bills, pending payments, min-balance preference, FX, installment offers, and evidence in messages and receipts — then recommends pay in full, split, installments, wait, or don’t.
 
+## Result
+
+HackerRank Orchestrate, September 2026: **#1531 / 3,062**.
+
+<p align="center">
+  <img src="docs/orchestrate-certificate.jpg" alt="HackerRank Orchestrate certificate — bhargabjyoti bhuyan, final rank #1531 / 3,062" width="640">
+</p>
+
+<p align="center">
+  <img src="docs/orchestrate-results.png" alt="Orchestrate leaderboard: finished #1,531 of 3,062, final score 40.3 / 100" width="720">
+</p>
+
 ## What it outputs
 
 For each request: `amount_safe_to_pay`, affordability status, payment method, dated `payment_plan`, earliest safe full-pay date, optional spending changes, and a short explanation.
