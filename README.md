@@ -9,7 +9,7 @@ The prompt is *“Can I afford this?”* Balance alone is not enough. The agent 
 HackerRank Orchestrate, September 2026: **#1531 / 3,062**.
 
 <p align="center">
-  <img src="docs/orchestrate-certificate.jpg" alt="HackerRank Orchestrate certificate — bhargabjyoti bhuyan, final rank #1531 / 3,062" width="640">
+  <img src="docs/hackerrank-orchestrate-september26.gif" alt="HackerRank Orchestrate certificate — bhargabjyoti bhuyan, final rank #1531 / 3,062" width="640">
 </p>
 
 <p align="center">
